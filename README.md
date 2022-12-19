@@ -4,11 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Flutter developer
 -----------------
 
-A self taught Flutter developer who is eager to learn new technologies and build UI rich applications.
+A self taught Flutter developer who is very passionate about building UI rich applications and learn new technologies.
 
-* 🌍  I'm based in India
-* ✉️  You can contact me at [indrajithkbabu@gmail.com](mailto:indrajithkbabu@gmail.com)
-* 🧠  I'm learning Flutter
+
+* 🌍  I'm based in Kerala,India
+* ✉️  Contact me at [indrajithkbabu@gmail.com](mailto:indrajithkbabu@gmail.com)
+* 🧠  I'm Flutter dev.
 * 🤝  I'm open to collaborating on Building Applications
 
 ### Skills
