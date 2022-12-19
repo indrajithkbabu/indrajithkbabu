@@ -7,10 +7,13 @@ Flutter developer
 A self taught Flutter developer who is very passionate about building UI rich applications and learn new technologies.
 
 
+* 🧠  I'm a self taught flutter dev.
 * 🌍  I'm based in Kerala,India
 * ✉️  Contact me at [indrajithkbabu@gmail.com](mailto:indrajithkbabu@gmail.com)
-* 🧠  I'm Flutter dev.
-* 🤝  I'm open to collaborating on Building Applications
+* 🤝  I'm looking forward for opportunities that will enhance my personal and professional growth.
+
+
+
 
 ### Skills
 
